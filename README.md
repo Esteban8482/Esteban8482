@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  In my [LinkedIn](https://www.linkedin.com/in/juan-esteban-salazar-narvez-01b34527a/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
