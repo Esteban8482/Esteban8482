@@ -1,5 +1,4 @@
 <h1 align="center">Hi 🤠, I'm Esteban</h1>
-<h3 align="center">A code writer :p</h3>
 
 - 🔭 I’m currently working on a [Signal Cleaning Algorithm](https://github.com/gitorivera/eeg-project)
 
